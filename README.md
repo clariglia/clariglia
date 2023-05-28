@@ -5,7 +5,7 @@
 </div>
 
 ### <div align="center">Hello, World! I'm Consiglia:sunflower: </div>
-#  <div align="center">I'm a Jr Frontend Web Developer:computer: and aspiring UI/UX Designer:art:! </div>
+#  <div align="center">I'm a Jr Frontend Developer:computer: and aspiring UI/UX Designer:art:! </div>
 
 <div align="center">
  I am passionate about movies, music, games, art, cats and travel <br/>
